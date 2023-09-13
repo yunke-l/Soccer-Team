@@ -13,10 +13,11 @@ For every player, the user will enter the following information:
 Each player will also have a jersey number but it will be assigned to them once the team is created.
 The team must have a minimum of 10 players and a maximum of 20.
  
-Once all the players' information has been entered, the software will automatically select the best players (according to their skill level and preferred position) to form the team and the startiglineup.
+### Once all the players' information has been entered, the software will automatically select the best players (according to their skill level and preferred position) to form the team and the startiglineup.
  
 The user can select and remove players from the middle table and create new teams, as well as reset the status.
-<img width="1241" alt="Screenshot 2023-09-12 at 10 49 31 PM" src="https://github.com/yunke-l/Soccer-Team/assets/66773247/8e0fb68d-80a7-4c86-89de-886891f4863f">
+ 
+<img width="1242" alt="Screenshot 2023-09-12 at 11 00 05 PM" src="https://github.com/yunke-l/Soccer-Team/assets/66773247/c3e2657c-b849-4ea5-a95e-b19e14cbcce0">
 
 
 
